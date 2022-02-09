@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background-color: #7dd56f;
+}
+h1 {
+  margin-top: 20px;
+  min-height: 15vh;
+  color: rgb(103, 103, 216);
+}
+
+form {
+  min-height: 15vh;
+}
+
+li {
+  list-style-type: center;
+  list-style-type: none;
+  min-height: 5vh;
+}
+
+/* Li dynamic button style */
+button {
+  color: rgb(25, 113, 185);
+  border-radius: 20px;
+}
+
+.form-control1 {
+  align-content: center;
+  width: 40%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  border-radius: 20px;
+  border: 2px solid #ced4da;
+  border-radius: 0.45rem;
+}
+
+div {
+  margin-top: 40px;
+}
